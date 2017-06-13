@@ -1,0 +1,62 @@
+body{
+	background-size: 1380px 280px;
+	background-repeat: no-repeat;
+}
+.border_color{
+	margin-top: 28px;
+	background-color: #003366;
+	color: #FFFFFF; 
+}
+.lbl_name
+{
+	color: #FFFFFF;
+	font-size: 14px;
+}
+a{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#btn_purchase{
+	width: 230px;
+	height: 60px;
+	font-size: 30px;
+	border-radius: 10px;
+}
+h1{
+	font-size: 50px;
+}
+h4
+{
+	color: #FFFFFF;
+}
+h3
+{
+	color: #336699;
+	text-align: center;
+	font-family:georgia,garamond,serif;
+}
+.footer
+{
+	background-color: #003366;
+	color: #FFFFFF;
+}
+.navbar_spotlight
+{
+	font-family:georgia,garamond,serif;
+}
+.image_div
+{
+	margin-left: 250px;
+}
+.footer_image
+{
+	width: 120px; 
+	height: 60px;
+}
+.img_skyfall
+{
+	margin-left: 30px; 
+	margin-top: 20px; 
+	height: 150px; 
+	width: 300px; 
+}
